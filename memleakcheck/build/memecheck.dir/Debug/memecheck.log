@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\repos\lyricpp\memleakcheck\main.cpp(94,36): warning C4291: “void *Test::operator new(size_t,void *)”: 未找到匹配的删除运算符；如果初始化引发异常，则不会释放内存
+D:\repos\lyricpp\memleakcheck\main.cpp(47): message : 参见“Test::operator new”的声明
+  memcheck.cpp
+  正在生成代码...
+  memecheck.vcxproj -> D:\repos\lyricpp\memleakcheck\build\Debug\memecheck.exe

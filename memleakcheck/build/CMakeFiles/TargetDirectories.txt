@@ -1,0 +1,3 @@
+D:/repos/lyricpp/memleakcheck/build/CMakeFiles/memecheck.dir
+D:/repos/lyricpp/memleakcheck/build/CMakeFiles/ALL_BUILD.dir
+D:/repos/lyricpp/memleakcheck/build/CMakeFiles/ZERO_CHECK.dir

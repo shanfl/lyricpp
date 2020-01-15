@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\repos\lyricpp\memleakcheck\build\CMakeFiles\8084b7a313bd09d333a84c48c0b1e36f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{456BCF53-3B44-3584-8A0B-980632AE32CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

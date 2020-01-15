@@ -1,0 +1,13 @@
+﻿  memcheck.cpp
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,16): error C2473: “operator new”: 看起来像函数定义，但却没有参数列表。
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,7): error C2365: “operator new”: 重定义；以前的定义是“函数”
+predefined C++ types (compiler internal)(33): message : 参见“operator new”的声明
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,19): error C2143: 语法错误: 缺少“;”(在“(”的前面)
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,27): error C2146: 语法错误: 缺少“)”(在标识符“size”的前面)
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,31): error C2377: “size_t”: 重定义；typedef 不能由任何其他符号重载
+D:\repos\lyricpp\memleakcheck\memcheck.cpp : message : 参见“size_t”的声明
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,27): error C2146: 语法错误: 缺少“;”(在标识符“size”的前面)
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(3,60): error C2059: 语法错误:“)”
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(4,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\repos\lyricpp\memleakcheck\memcheck.cpp(4,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
